@@ -1,0 +1,35 @@
+{
+  "name": "ContentCastAI",
+  "short_name": "ContentCastAI",
+  "description": "AI-powered content creation for Farcaster",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "social",
+    "utilities"
+  ],
+  "lang": "en-US",
+  "dir": "ltr",
+  "baseBuilder": {
+    "allowedAddresses": ["0x35e822bD28c99796AF7d4be671a033c77028e7c9"]
+  }
+}

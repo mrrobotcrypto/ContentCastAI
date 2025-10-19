@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjM4Mzk2MCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDUxOUVEOTdCOWMyMTdmODhlMTgxOTYzNjk0MzlDZEEzMmQ3NjdEZjIifQ",
+    "payload": "eyJkb21haW4iOiJjb250ZW50Y2FzdGFpLnJlcGxpdC5hcHAifQ",
+    "signature": "DPhrHgy2B8qeStI5EsbJElZ1da8iRXX2rTOxy1ZgCgNieMMjFqPpA4tPoNMfik19dqQ95E3D3lagow/+jx19Chs="
+  },
+  "baseBuilder": {
+    "allowedAddresses": ["0x35e822bd28c99796af7d4be671a033c77028e7c9"]
+  },
+  "frame": {
+    "version": "1",
+    "name": "ContentCastAI",
+    "buttonTitle": "Open ContentCastAI",
+    "description": "Create AI-powered social media content for Farcaster with intelligent text generation, Gemini AI, and seamless wallet connectivity",
+    "iconUrl": "https://contentcastai.replit.app/icon.png",
+    "homeUrl": "https://contentcastai.replit.app/",
+    "imageUrl": "https://contentcastai.replit.app/image.png",
+    "splashImageUrl": "https://contentcastai.replit.app/splash.png",
+    "splashBackgroundColor": "#3B82F6",
+    "subtitle": "AI-Powered Content Creator",
+    "heroImageUrl": "https://contentcastai.replit.app/og.png",
+    "tagline": "Create AI content instantly",
+    "ogTitle": "ContentCastAI",
+    "ogDescription": "Create AI-powered social media content for Farcaster with intelligent text generation",
+    "ogImageUrl": "https://contentcastai.replit.app/og.png",
+    "castShareUrl": "https://contentcastai.replit.app",
+    "webhookUrl": "https://contentcastai.replit.app/api/webhook",
+    "tags": ["ai", "content", "farcaster", "social", "productivity"],
+    "screenshotUrls": [
+      "https://contentcastai.replit.app/og.png",
+      "https://contentcastai.replit.app/splash.png"
+    ],
+    "noindex": false,
+    "primaryCategory": "productivity"
+  }
+}
